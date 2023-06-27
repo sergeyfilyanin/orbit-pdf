@@ -1,7 +1,7 @@
 {
-  "name": "@sergeyfilyanin/orbit-pdf",
+  "name": "@zsevic/orbit-pdf",
   "description": "CLI tool for converting Orbit HTML resume to pdf",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "bin": {
     "orbit-pdf": "./bin/run"
   },
